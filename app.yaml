@@ -1,0 +1,4 @@
+#app.yaml
+runtime: python38
+service: level-1-5-analysis
+instance_class: F2
